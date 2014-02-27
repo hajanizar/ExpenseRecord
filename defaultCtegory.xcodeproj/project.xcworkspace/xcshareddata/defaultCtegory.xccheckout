@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1A80DEC9-3E21-42A8-9D85-E4368A891141</string>
+	<key>IDESourceControlProjectName</key>
+	<string>defaultCtegory</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CBA45FF1-10D3-4230-8995-9E677DB28C61</key>
+		<string>https://hibrise.visualstudio.com/DefaultCollection/_git/iOSEasyExpenseTracker</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ExpenseRecord/defaultCtegory.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CBA45FF1-10D3-4230-8995-9E677DB28C61</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://hibrise.visualstudio.com/DefaultCollection/_git/iOSEasyExpenseTracker</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CBA45FF1-10D3-4230-8995-9E677DB28C61</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CBA45FF1-10D3-4230-8995-9E677DB28C61</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSEasyExpenseTracker</string>
+		</dict>
+	</array>
+</dict>
+</plist>
